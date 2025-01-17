@@ -2,3 +2,7 @@ body {
     background-color: lightpink;
     color: black;
 }
+
+p#first {
+    background-color: coral;
+}
