@@ -3,6 +3,11 @@ body {
     color: black;
 }
 
-p#first {
+#first {
     background-color: coral;
+}
+
+.animals {
+    color: blueviolet;
+    font-weight: bold;
 }
